@@ -23,6 +23,10 @@ h1 small { text-transform: lowercase }
 h2 {
     line-height: 24px;
     font-weight: 300;
+    font-weight: 500;
+}
+h2 .mainH2{
+    color: #eee;
 }
 h5 { font-size: 16px }
 p { font-size: 14px }
